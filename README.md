@@ -4,8 +4,8 @@
 QuickChat is a Java messaging application that allows users to send, store, and manage messages.
 
 ## Author
-[Your Name]
-[Your Student ID]
+[kamogelo rabekane]
+[ST10446323]
 PROG5121 POE
 
 ## Technologies Used
